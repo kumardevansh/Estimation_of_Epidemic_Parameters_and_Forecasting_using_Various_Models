@@ -1,5 +1,3 @@
-
-```
 # Parameter Uncertainty in Epidemiological Modeling using Generalized Growth Model (GGM)
 
 This project explores the estimation and uncertainty analysis of epidemiological parameters using the Generalized Growth Model (GGM). We fit the model on both synthetic and real epidemic data, and use bootstrapping to quantify parameter uncertainty and the effective reproduction number `R_t`.
@@ -76,4 +74,3 @@ This project is licensed under the MIT License.
 
 - Chowell et al., “A Novel Sub-Epidemic Modeling Framework for Short-Term Forecasting Epidemic Waves”  
 - Viboud et al., “The RAPIDD ebola forecasting challenge: Synthesis and lessons learned”
-```
