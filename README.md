@@ -5,15 +5,11 @@ This project explores the estimation and uncertainty analysis of epidemiological
 ## 📁 Project Structure
 
 ```
-
-.
-├── data/                             # Contains synthetic and real epidemic datasets
-├── images/                           # Visualizations (model fit, bootstrap histograms, etc.)
-├── scripts/                          # MATLAB code for model fitting, bootstrapping, and plotting
-├── IP\_Project\_Parameter\_Uncertainty\_on\_Epidemiology.pdf  # Final report
+├── Dataset/                          # Contains synthetic and real epidemic datasets
+├── Graphs/                           # Visualizations (model fit, bootstrap histograms, etc.)
+├── Code_files/                       # MATLAB code for model fitting, bootstrapping, and plotting
+├── Report                            # Final report
 ├── README.md                         # This file
-└── .zenodo.json                      # (Optional) Metadata for Zenodo archiving
-
 ```
 
 ## 📌 Simulations Overview
@@ -33,11 +29,8 @@ Each simulation involves:
 ## 📊 Key Concepts
 
 - **GGM (Generalized Growth Model):**
-
 ```
-
 dC(t)/dt = r \* C(t)^p
-
 ```
 
 Where:
