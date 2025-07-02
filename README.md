@@ -55,10 +55,6 @@ The complete methodology, figures, equations, and interpretation are documented 
 - **Main Libraries:** `lsqcurvefit`, `bootstrp`, plotting utilities  
 - **Visualization:** Histograms, line plots with confidence intervals
 
-## 🧠 Authors
-
-- Devansh Kumar (Primary Contributor)
-
 ## 📜 License
 
 This project is licensed under the MIT License.
